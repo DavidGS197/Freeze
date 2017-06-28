@@ -1,0 +1,15 @@
+name:  Freeze
+main: me.davidgs197.freeze.main
+athor: DavidGS197
+version: 1.0
+commands:
+    Freeze:
+        usage: /<command>
+    UnFreeze:
+        usage: /<command>
+    UnFreeze-All:
+        usage: /<command>
+    cc:
+        usage: /<command>
+    RBCFreeze:
+        usage: /<command>
